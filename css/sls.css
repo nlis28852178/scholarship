@@ -1,0 +1,53 @@
+.t1 {
+	font-family: "Arial Black";
+	font-size: 16px;
+	color: #548235;
+}
+.t2 {
+	font-family: "Arial Black";
+	font-size: 30px;
+	color: #000;
+}
+.t3 {
+	font-family: "Arial Black";
+	font-size: 24px;
+	color: #548235;
+}
+.t4 {
+	font-family: "Arial Black";
+	font-size: 14px;
+	color: #A9D18E;
+}
+.t5 {
+	font-family: "Arial Black";
+	font-size: 48px;
+	color: #000;
+}
+.t6 {
+	font-family: "Arial Black";
+	font-size: 28px;
+	color: #A9D18E;
+}
+.t7 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 14px;
+	color: #000;
+	line-height: 35px;
+}
+.t8 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 40px;
+	color: #548235;
+}
+.r {
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #A9D18E;
+	padding-right: 10px;
+}
+.l {
+	border-left-width: 2px;
+	border-left-style: solid;
+	border-left-color: #A9D18E;
+	padding-left: 10px;
+}
