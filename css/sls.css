@@ -39,6 +39,12 @@
 	font-size: 40px;
 	color: #548235;
 }
+.t9 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 14px;
+	color: #A9D18E;
+	line-height: 35px;
+}
 .r {
 	border-right-width: 2px;
 	border-right-style: solid;
