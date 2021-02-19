@@ -36,7 +36,7 @@
 }
 .t8 {
 	font-family: "微軟正黑體", Arial;
-	font-size: 40px;
+	font-size: 33px;
 	color: #548235;
 }
 .t9 {
@@ -44,6 +44,17 @@
 	font-size: 14px;
 	color: #548235;
 	line-height: 35px;
+}
+.t10 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 20px;
+	color: #F60;
+	line-height: 35px;
+}
+.t11 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 40px;
+	color: #A9D18E;
 }
 .r {
 	border-right-width: 2px;
