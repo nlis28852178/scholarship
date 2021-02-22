@@ -15,7 +15,7 @@
 }
 .t2-2 {
 	font-family: "Arial Black";
-	font-size: 42px;
+	font-size: 45px;
 	color: #000;
 }
 .t3 {
@@ -47,6 +47,11 @@
 .t8 {
 	font-family: "微軟正黑體", Arial;
 	font-size: 33px;
+	color: #548235;
+}
+.t8-1 {
+	font-family: "微軟正黑體", Arial;
+	font-size: 27px;
 	color: #548235;
 }
 .t9 {
